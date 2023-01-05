@@ -1,0 +1,8 @@
+﻿  project.cpp
+C:\Users\ADMIN\OneDrive - Institut supérieur d'informatique\Desktop\Bank+jeel+jagpreet\Bank+jeel+jagpreet\project.cpp(259,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ADMIN\OneDrive - Institut supérieur d'informatique\Desktop\Bank+jeel+jagpreet\Bank+jeel+jagpreet\project.cpp(261,38): warning C4551: function call missing argument list
+C:\Users\ADMIN\OneDrive - Institut supérieur d'informatique\Desktop\Bank+jeel+jagpreet\Bank+jeel+jagpreet\project.cpp(275,11): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\ADMIN\OneDrive - Institut supérieur d'informatique\Desktop\Bank+jeel+jagpreet\Bank+jeel+jagpreet\project.cpp(425,22): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+C:\Users\ADMIN\OneDrive - Institut supérieur d'informatique\Desktop\Bank+jeel+jagpreet\Bank+jeel+jagpreet\project.cpp(432,36): warning C4244: '+=': conversion from 'double' to 'long', possible loss of data
+C:\Users\ADMIN\OneDrive - Institut supérieur d'informatique\Desktop\Bank+jeel+jagpreet\Bank+jeel+jagpreet\project.cpp(444,35): warning C4244: '+=': conversion from 'double' to 'long', possible loss of data
+  Bank+jeel+jagpreet.vcxproj -> C:\Users\ADMIN\OneDrive - Institut supérieur d'informatique\Desktop\Bank+jeel+jagpreet\Debug\Bank+jeel+jagpreet.exe
